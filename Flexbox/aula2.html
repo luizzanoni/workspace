@@ -1,3 +1,6 @@
+<!--nesta aula foi aprendido a criar containers e containers reversos
+seguindo o modelo HTML, também alguns atalhos dentro do vscode, além disso, para rodar este código
+utilizar o ctrl+shift+p e caso não haja no pc a extenção Live Server Preview, utilizá-la-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,8 +38,26 @@
         }
 
         .row-reverse li{
-            color: red;
+            color: white;
         }
+
+        .column{
+            float: left;
+            flex-direction: column;
+        }
+
+        .column li{
+            background: orange;
+        }
+
+        .column-reverse{
+            flex-direction: column-reverse;
+        }
+
+        .column-reverse li{
+            background: orangered;
+        }
+
     </style>
 </head>
 <body>
@@ -53,6 +74,20 @@
         <li class="flex-item">3</li>
         <li class="flex-item">4</li>
         <li class="flex-item">5</li>
+    </ul>
+    <ul class="flex-container column">
+        <li class="flex-item">1</li>
+        <li class="flex-item">2</li>
+        <li class="flex-item">3</li>
+        <li class="flex-item">4</li>
+        <li class="flex-item">5</li>
+    </ul>
+    <ul class="flex-container column-reverse">
+    <li class="flex-item">1</li>
+    <li class="flex-item">2</li>
+    <li class="flex-item">3</li>
+    <li class="flex-item">4</li>
+    <li class="flex-item">5</li>
     </ul>
 </body>
 </html>

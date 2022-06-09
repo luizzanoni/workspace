@@ -1,0 +1,83 @@
+<!--Altura de WRAP aprendida nesta aula, todas as bordas ou estilos do container, são citados aqui (style)
+o item se refere aos quedrados brancos e o restante são itens colocados
+
+em outra situação, foi removido o height:150px e anexado um flex-direction:column
+para ao invez de ser quadrados, os mesmos ficarem alinhados em colunas
+o comportamento flex-direction row, já vem por padrão-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introdução ao Flex WRAP</title>
+
+    <style>
+        .flex-container{
+            display: flex;
+            flex-direction: column;
+            border: 2px solid black;
+            max-width: 400px;
+            height: 150px;
+            }
+
+        .item{
+            font-size: 25px;
+            height: 50px;
+            text-align: center;
+            min-width: 150px;
+            line-height: 50px
+            }
+
+        .wrap{
+            flex-wrap: wrap;
+        }
+
+        .wrap-reverse{
+            flex-wrap: wrap-reverse;
+        }
+
+        .blue{
+            background-color: aqua;
+        }
+        
+        .green{
+            background-color: green;
+        }
+
+        .orange{
+            background-color: orange;
+        }
+
+        .nowrap{
+            flex-wrap: nowrap;
+        }
+    </style>
+</head>
+    <body>
+        <h1>NO WRAP</h1>
+
+        <div class="flex-container nowrap ">
+        <div class="item blue">1</div>
+        <div class="item green">2</div>
+        <div class="item orange">3</div>
+        <div class="item blue">4</div>
+        </div>
+
+     <h1>WRAP</h1>
+          <div class="flex-container wrap ">
+            <div class="item blue">1</div>
+            <div class="item green">2</div>
+            <div class="item orange">3</div>
+            <div class="item blue">4</div>
+         </div>
+    
+     <h1>WRAP REVERSE</h1>
+            <div class="flex-container wrap-reverse">
+            <div class="item blue">1</div>
+            <div class="item green">2</div>
+            <div class="item orange">3</div>
+            <div class="item blue">4</div>
+        </div>    
+    </body>
+</html>
