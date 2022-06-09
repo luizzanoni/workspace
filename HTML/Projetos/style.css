@@ -1,13 +1,26 @@
 body {
     background-color: rgb(197, 197, 197);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 1200px;
+    margin: auto;
 }
 
 .post_luiz {
     border-radius: 5000px;
 }
 
-#titlle, .subtitlle, .post_tittle {
+#tittle, .subtittle, .post_tittle {
     color: rgb(0, 0, 0);
+}
+
+#tittle {
+    text-transform: uppercase;
+    font-style: italic;
+    text-align: center;
+}
+
+a { 
+    text-decoration: underline;
 }
 
 .post_tittle {
@@ -15,6 +28,7 @@ body {
     font-style: italic;
     margin: 0;
     margin-bottom: 15px;
+    text-align: center;
 }
 
 .post {
@@ -23,13 +37,25 @@ body {
     border: 3px solid black;
     margin-bottom: 15px;
     border-radius: 20px;
+    text-align: center;
 }
 
 .post_content {
     margin: 0;
     margin-bottom: 15px;
+    color: black;
 }
 
 .post_image {
     margin-bottom: 15px;
+    width: 100%;
+}
+
+.contact_list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    color: #1b1b1b;
 }

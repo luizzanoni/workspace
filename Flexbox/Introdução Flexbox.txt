@@ -1,0 +1,47 @@
+Existem dois tipor de FLexbox
+
+Flex container
+
+Existem tags de container, transorma seus filhos em flexitem
+
+pode ser feito em div, spam, h1, h2, a,
+ele tem propriedades relacionadas
+-display: inicializador do container
+-flex_direction:faz o direcionamento em linha ou coluna
+-flex_wrap: quebra de linhas ou nao
+-flex_flow: abreviação para os dois anteriores
+-justify_content: alinha os item de acordo com sua direção
+-align_items: alinha os item de acordo com seu eixo
+-align_content: alinha as linhas do container
+
+Flexitem:
+pode ser aplicado para se tornar um flex-container
+flex-item1 e assim por diante
+-flex grow: define fator de crescimento 
+-flex basis: tamanho inicial do item
+-flex shrink: define a capacidade de redução
+-flex: se refere aos anteriores
+-order: relacionado a ordem de produção e listagem de item 
+-align self: alinhamento de um item específico no container
+
+FUNDAMENTOS DO FLEXBOX
+
+display flex:
+tonra uma tag elemento do tipo flex, e assim todos os seus filhos diretos 
+dessa tag
+
+ctrl + shitf + p e digita show live server
+abre o um "navegador ao lado para testes"
+crtl + s ele vai alterando dentro do visual mesmo
+
+-flex_direction: estabelece o principal eixo do container, ele por padrão
+vem em row,-> item1, item2...
+row-reserse, sentido oposto item4, item3 <-
+column, eixo vertical, coluna
+item1
+item2
+de cima para baixo sempre
+column-reserve, de baixo para cima,
+item4
+item3
+e assim por diante dentro de todos
