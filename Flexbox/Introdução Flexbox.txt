@@ -67,6 +67,18 @@ os tipos de alinhamentos:
 -flex-end: alinhamentos dos itens no final
 -baseline: alinhamento de acordo com a linha base da tipografia dos itens
 
+Align-content
+precisamos que o container utilize a quebra de linhas
+tipos de alinhamento
+-center: alinhamnto ao centro
+-stretch: é o padrão e os flex itens crescem igualmente.
+-flex-start: alinhamento dos itens no inicio
+-flex-end: alinhamento dos itens no final
+-space-between: cria um espaço igual entre os elementos
+-space-around: os espaçamentos do meio são duas vezes maiores
+
+
+
 
 GED assinaturas 
 criar ums software para realizar assinaturas de 4 tb +/-

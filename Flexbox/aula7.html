@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>align-content</title>
+    <style>
+        .container{
+            height: 300px;
+            max-width: 300px;
+            display: flex;
+            flex-wrap: wrap;
+            border: 1px solid black;
+        }
+        .item{
+            background-color: tomato;
+            padding: 0 5px;
+            flex: 1;
+            margin: 5px;
+            text-align: center;
+            color: white;
+        }
+
+        .stretch{
+            align-content: stretch;
+        }
+
+        .center{
+            align-content: center;
+        }
+
+        .flex-start{
+            align-content: flex-start;
+        }
+
+        .flex-end{
+            align-content: flex-end;
+        }
+
+        .space-between{
+            align-content: space-between;
+        }
+
+        .space-around{
+            align-content: space-around;
+        }
+    </style>
+</head>
+<body>
+    <h1>stretch</h1>
+    <div class="container stretch">
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2 docuemnto exto e para teste</div>
+    <div class="item">docuemnto de texto e para testedocumento 1</div>
+    <div class="item">docuemnto de texto e para teste 1,5</div>
+    <div class="item">documento 2</div>
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2</div>
+    </div>
+
+    <h1>center</h1>
+    <div class="container center">
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2 docuemnto exto e para teste</div>
+    <div class="item"> testedocumento 1</div>
+    <div class="item">docuemnto de texto e para teste 1,5</div>
+    <div class="item">documento 2</div>
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2</div>
+    </div>
+
+    <h1>flex-start</h1>
+    <div class="container flex-start">
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2 docuemnto exto e para teste</div>
+    <div class="item"> testedocumento 1</div>
+    <div class="item">docuemnto de texto e para teste 1,5</div>
+    <div class="item">documento 2</div>
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2</div>
+    </div>
+
+    <h1>flex-end</h1>
+    <div class="container flex-end">
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2 docuemnto exto e para teste</div>
+    <div class="item"> testedocumento 1</div>
+    <div class="item">docuemnto de texto e para teste 1,5</div>
+    <div class="item">documento 2</div>
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2</div>
+    </div>
+
+    <h1>space-between</h1>
+    <div class="container space-between">
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2 docuemnto exto e para teste</div>
+    <div class="item"> testedocumento 1</div>
+    <div class="item">docuemnto de texto e para teste 1,5</div>
+    <div class="item">documento 2</div>
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2</div>
+    </div>
+
+    <h1>space-around</h1>
+    <div class="container space-around">
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2 docuemnto exto e para teste</div>
+    <div class="item"> testedocumento 1</div>
+    <div class="item">docuemnto de texto e para teste 1,5</div>
+    <div class="item">documento 2</div>
+    <div class="item">documento 1</div>
+    <div class="item">docuemnto 1,5</div>
+    <div class="item">documento 2</div>
+    </div>
+</body>
+</html>
