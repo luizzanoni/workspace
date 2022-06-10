@@ -1,0 +1,89 @@
+Windows
+- cd
+- dir
+- mkdir
+- del / rmdir
+
+* Para Listar e saber em qual local está:
+>dir -> Lista de diretorios 
+contitos na pasta a qual está situado
+
+* Para ir a um diretorio especifico:
+>cd -> possibilita que va "up" "down" niveis 
+nos diretorios, volte e avance ou va a um 
+diretorio especifico
+
+Ex cd: 
+>cd / {Leva a base do diretorio "C"}
+>cd Windows {Leva a pasta Windows}
+>cd .. {Retrocede um nivel no diretorio}
+
+* Para Limpeza do terminal
+>cls -> Limpa a tela do terminal
+
+*(TAB) -> Tecla para auto completação
+
+*Cliando uma pasta
+>mkdir (Nome da pasta) -> Com o seguinte
+comando e o nome da pasta se cria uma Pasta
+pelo Terminal
+
+Ex mkdir: 
+>mkdir workspace {cria-se uma pasta com nome 
+workspace}
+
+* Printar // Imprimir mensagem
+>echo -> printa de volta no terminal uma 
+frase ou texto que enviar
+
+
+* Criar nova pasta// Arquivo
+Utilizando uma pasta já existente "workspace"
+e o comando "echo" para printar e ">" que serve como 
+redirecionador de Fluxo este pega a saida desta funçâo 
+Echo e transformar em um arquivo (Sistema opercional 
+vai verificar se a pasta não existe, se não existir 
+o mesmo cria)
+
+Ex Cria pasta:
+c:\workspace>_
+c:\workspace>echo hello > hello.txt 
+{Cria pasta dentro da pasta workspace}
+
+Deletar Arquivos =! Deletar Repositorios
+
+***DELETAR ARQUIVOS***
+* Excluir pasta // Deletar Arquivos
+Utilizamos: 
+>del -> para se deletar arquivos ao lado
+do direcionamento/nome da pasta
+
+Ex del:
+>del workspace {deleta a pasta dentro do 
+repositorio a "hello.txt"}
+
+c:\workspace\*, Tem certeza (S/N)? {S para
+Sim  e N para Não}
+
+
+***DELETAR REPOSITORIOS***
+* Deletar Repositorio: 
+>rmdir (nome do repositorio) /S /Q
+
+Exemplo rmdir:
+>rmdir workspace /S /Q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

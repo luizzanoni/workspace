@@ -1,0 +1,96 @@
+Chave SSH -> Configurar a maquina como uma maquina confiavel sendo possivel
+enviar codigos da mesma para o GitHub sem a nescessidade de senhas
+
+Passos: 
+
+1º Processo
+
+No GitHub em seu icone de perfil -> Settings -> 
+SSH and GPG Keys -> New SSH key -> Ir para o Git Bash
+
+No Git Bash: 
+Abre o terminal/GitBash >>>> Comando de inicio ($ ssh-keygen -t ed25519 -C email@.com)
+{Neste caso se é dado o comando da ssh junto o 
+tipo de criptografia da chave} -> Isto vai gerar um par de chaves publica 
+e privadas e mostrar o local onde estas chaves vão ficar EX: 
+(/c/Users/NameUser/.ssh/id_ed25519)  >>>> Entre com uma senha >>>> 
+o mesmo gera uma criptografia com a identidade de sua chave >>> 
+Já gerada está chave está em sua maquina, para acessar está chave pode 
+utilizar caminho por comandos no terminal navegando pelas pastas >>>>
+Com os seguintes comandos >>>> ($ cd /c/Users/NameUser/.ssh/) >>>>
+Após isto estara na pasta /.ssh Uilizamos ls para listar os comandos e
+verificar//Vizualizar o que há na mesma >>>> ($ ls) >>>> 
+id_ed25519 id_ed25519.pub >>>> As duas chaves, uma publica e 
+a outra Privada >>>> Comando especial para vizualizar o conteudo dessa
+chave >>>> ($ cat id_ed25519.pub) >>>> A chave a ser exposta no GitHub
+será a chave publica >>>> ao "rodar o comando" ($ cat id_ed25519.pub) no 
+terminal obtemos a chave no formato de seus caracteres >>>> Exemplo: 
+{
+	ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGdgvsi3/erHMPnSw5dZYnWHK
+	vliQDfuAO36yYrHdpjm gabrielsj151@gmail.com
+}  
+
+>>>> Ir para o GitHub a partir de onde parou -> New SSH Key -> Da um 
+"Titulo" para indentificação da maquina e de onde a chave foi tirada ->
+em "Key" colocamos a assintura da chave ->
+{
+	ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGdgvsi3/erHMPnSw5dZYnWHK
+	vliQDfuAO36yYrHdpjm gabrielsj151@gmail.com
+}
+
+-> Add SSH Key -> Ao final vai ter gerado a chave.
+
+
+2º Processo
+
+No Terminal utilizamos pwd para verifcar em que local estamos -> agora em 
+/.ssh utilizamos o seguinte comando -> ($ eval $(ssh-agent -s)) -> 
+O mesmo ira inicializar o SSH Agent que é uma "entidade" a qual será 
+responsavel pegando as chaves e lidando com elas -> Isto vai gerar 
+por exemplo -> Agent pid 1234 -> O numero final vai variar pois está 
+iniciando//startando um projeto -> Após gerar este agente vamos entrgar 
+esta chave para o mesmo -> Caso nescessite verificar as chave pode
+utilizar ($ ls) na pasta /.ssh que ira mostrar as chaves existentes ->
+Agora para entregar estas chaves -> ($ ssh-add id_ed25519) -> pode 
+adicionar este parametro por estar na pasta /.ssh já -> e a chave que 
+passamos será a chave privada -> senha que digitou para su chave -> 
+Resultara na mensagem de identidade adaicionada -> 
+"Identity added: id_ed25519 (gabrielsj151@gmail.com)" -> Validar -> 
+
+No GitHub -> podemos seguir os seguintes passos -> Criar um repositorio
+-> Utilizar o mesmo para clonar na maquina e assim dar inicio ao processo
+-> em seu repositorio criado em "<> Code" utilizaos o caminho SSH para 
+clonar o repositorio -> Após copiar o SSH no Terminal//GitBash ->
+
+No GitBash: 
+($ git clone git@github.com:Exemplo/exemplo.github.io.git) -> o 
+"git@github.com:Exemplo/exemplo.github.io.git" será o caminho SSH que 
+deve ser passado -> após rodado -> vai aparecer "Are you sure you want
+to continue connecting (yes/no[fingerprint])?" -> Isto é pedindo se quer
+salva está assinatiura para contunuar insere "yes" -> Isto irá dd o 
+GitHub -> Após isto estara clonado em sua maquina o repositorio 
+-> caso queira verificar pode ser usado ($ ls) -> exemple.github.io/ 
+-> Finalizado
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

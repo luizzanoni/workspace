@@ -45,3 +45,28 @@ column-reserve, de baixo para cima,
 item4
 item3
 e assim por diante dentro de todos
+
+Justify Content
+
+Vai se encarregar de alinhar os itens dentro do container de acordo com a 
+direção pretendida e tratar da distribuição
+-flex-start: inicio do container
+-flex-end: final do container
+-center: ao centro do container
+-space-between: cria espaçamento entre os elemtnos
+-space-around: os espaçamentos são duas vezes maiores que o inicial e o final
+
+Estrutura básica de Align Items
+trata do alinhamento dos flex itens de acordo com o eico do container
+o alinhamento é diferente para quando os itens estão em colunas ou linhas
+permite o alinhamento central no eixo vertical
+os tipos de alinhamentos:
+-center: alinhamento dos itens ao centro
+-stretch: padrão, e os flex itens cresçam igualmente
+-flex-start: alinhamento dos itens no inicio
+-flex-end: alinhamentos dos itens no final
+-baseline: alinhamento de acordo com a linha base da tipografia dos itens
+
+
+GED assinaturas 
+criar ums software para realizar assinaturas de 4 tb +/-

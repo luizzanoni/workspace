@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Estrutura básica ALIGN ITEMS</title>
+
+        <style>
+            .container{
+                max-width: 400px;
+                border: 1px solid black;
+                display: flex;
+            }
+
+            .item{
+                background-color: tomato;
+                margin: 5px;
+                color: white;
+                text-align: center;
+                flex: 1;
+            }
+
+            .center{
+                align-items: center;
+            }
+
+            .stretch{
+                align-items: stretch;
+            }
+
+            .start{
+                align-items: flex-start;
+            }
+
+            .end{
+                align-items: flex-end;
+            }
+        </style>
+</head>
+    <body>
+        <p>center</p>
+        <section class="container center">
+            <div class="item">item1</div>
+            <div class="item">outro terceiro item3 item2</div>
+            <div class="item">terceiro item3</div>
+         </section>
+
+        <p>stretch</p>
+        <section class="container stretch">
+            <div class="item">item1</div>
+            <div class="item">outro iteterceiro item3m2</div>
+            <div class="item">terceiro item3item3</div>
+        </section>
+
+        <p>flex-starts</p>
+        <section class="container start">
+            <div class="item">item1</div>
+            <div class="item">outro iteterceiro item3m2</div>
+            <div class="item">terceiroterceiro  item3item3</div>
+        </section>
+
+        <p>flex-end</p>
+        <section class="container end">
+            <div class="item">item1</div>
+            <div class="item">outro iteterceiro item3m2</div>
+            <div class="item">terceiroterceiro  item3item3</div>
+        </section>
+    </body>
+</html>

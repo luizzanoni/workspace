@@ -1,0 +1,17 @@
+SHA1 -> secure Hash Algorithm Serve para Criptografar seu codigo para a 
+segurança de seu codigo/conteudo 
+---> Respresenta o estado de um arquivo
+No terminal para obter o conjuntod e 40 caracteres: 
+$ openssl sha1 (nome da pasta) 
+
+Ex: 
+$ openssl sha1 text.txt 
+
+/////////////////////////////////////////////////////////////
+
+Objetos Fundamentais -> 
+
+
+
+
+

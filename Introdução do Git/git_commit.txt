@@ -1,0 +1,53 @@
+Comandos Git: 
+
+- git init -> Mover Arquivos e Inicio de Versionamentos
+- git add -> comando para adição
+- git commit -> criar commit
+
+Criando um Repositorio
+
+Criando uma pasta dentro de outra paste palo terminal: 
+($ mkdir nome_da_pasta) -> Ex: ($ mkdir livro-receitas) {
+	
+Criando outra pasta dentro da pasta livro de receitas, é
+nescessario fazer uma config inicial -> Um "UserName" e
+"E-mail" para que o comit seja criado por um "Autor"
+
+para isso utilizamos o seguintes comando para inserção -> 
+($ git config --global user.mail "gabrielsj151@gmail.com")
+// Add Email
+
+($ git config --global user.name Gabriel)
+// Add UserName
+
+Apos feita essa conf inicial vamos add um aquivo de um tipo diferente
+
+Um arquivo do tipo Markdown, o que seria tipo Html porem mais "Humana"
+
+-> Criando um Arquivo Markdown -> em sua pasta "livro-receitas" add um 
+arquivo tipo txt troca-se o nome para o nome dejado e após o . adiciona-se
+o tipo desejado, EX: (arquivo.txt -> strogonoff.md)  
+
+Em seguida com o texto de exemplo pronto podemos dar sequencia para 
+realizar o commit -> 
+
+No Terminal na pasta /livros-receitas que é a pasta a qual engloba/está 
+dentro nosso arquivo tipo texto//md//html// outros damos os seguintes
+comandos: 
+($ git add *) -> ($ git commit -m "Exemplo comentario do pq do commit//
+alteração") {O mesmo temos acesso do comentario e do User que fez o Commit}
+
+-> Gerado o Commit
+
+}
+
+
+Podemos listar arquivos no Git com "ls" porem podendo haver
+arquivos ocultos utilizados flags que modificam comandos ja
+existentes, para mostrar arquivos ocultos podemos utilizar: 
+($ ls -a)
+
+
+
+
+
