@@ -1,0 +1,54 @@
+
+<!--Principais erros que notei, erro de gramática, atentar aos erros que ocorrem durante 
+a escrita dos códigos, primcipalmente nas DIV e nos FLEX, atentar a pontos também-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Fundamentos flex shrink</title>
+
+        <style>
+            .flex-container{
+                display: flex;
+                border: 1px solid black;
+                max-width: 350px;
+                margin-bottom: 10px;
+            }
+
+            .item{
+                background-color: orangered;
+                font-size: 24px;
+                text-align: center;
+                margin: 5px;
+                color: white;
+            }
+
+            .shrink1{
+                flex-shrink: 1;
+            }
+
+            .fg1{
+                flex-grow: 1;
+            }
+        </style>
+    </head>
+        <body>
+            <p>shrink1</p>
+            <div class="flex-container">
+                <div class="item shrink1 fg1">A</div>
+                <div class="item shrink1 fg1">B</div>
+                <div class="item shrink1 fg1">A</div>
+                <div class="item shrink1 fg1">A</div>
+                <div class="item shrink1 fg1">A</div>
+            </div>
+
+            <div class="flex-container">
+                <div class="item shrink1 fg1">A</div>
+                <div class="item shrink1 fg1">Bhauhdfuafuabfuabfahbvabcvuabfabaihdvbih</div>
+                <div class="item shrink1 fg1">A</div>
+                <div class="item shrink1 fg1">A</div>
+            </div>
+        </body>
+</html>
