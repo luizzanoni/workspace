@@ -1,0 +1,47 @@
+============Tipos de operadores
+
+existem muitos simbolos, mas os mais importantes, buscar tradução na net, estes são:
+atribuição, aritimietica, comparação, logica, e de condicional
+atribuição:
+mais comum é " = ", x=y, pronto acabou :)
++=  :  x+=y é o mesmo que x=x+y
+módulo retorna o resto da divisão, simbolo do módulo é %
+
+aritimietica, 
+** é exponencial
+++ incrementar, adc uma variável, i++ é o equivalente a +1
+-- decrementar, adc uma variável, i-- é o equivalente a -1
+
+comparação
+== igual a
+=== mesmo valor e mesmo tipo
+< menor
+> maior
+<= menor ou igual
+=> maior ou igual
+!= diferente
+!== valor e tipos diferentes
+
+lógica
+&& "e" logico - precisa de tudo verdadeiro para acessar 
+|| "ou" logico - somente uma das infos for verdadeiro
+! não logico - 
+
+condicional (ternário)
+if (condition)
+	statement;
+else
+	statemente;
+
+=============Começando as aulas
+
+// duas barras comentam código, porém somente uma linha, nova linha o código volta ao normal
+/* inicia um comentário e só finaliza o mesmo quando você coloca */
+
+/*o que é uma variável, matemática,
+função 1º mat
+ax + b = 0*/ 
+
+function soma(a,b) { //os paranteses coloca atributos ou parametros(a,b)
+    //console.log(a+b); //console so serve para ver se o valor realmente esta funcionando
+    return a+b
