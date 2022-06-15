@@ -1,0 +1,24 @@
+array
+
+sempre dentro dos []
+os indices dentro devem ser separados com vírgulas
+let array = ['string, 1, true]; ou podemos fazer também
+let array = ['string, 1, true [array1, array2, array3]];
+pode guardar vários elementos
+ele é uma caixa, que podemos colocar outras caixas dentro dele mesmo
+forEach() - itera um array
+push() - add item no fim do array
+pop() - remove item no final do array
+shift() - remove item no inicio
+unshift() - add item no inicio do array
+indexof() - retorna indice de valor
+
+
+Estruturas condicionais, 
+
+estruturas de repetição ou laços de repetição
+for
+for/in
+for/of
+while
+do/while
