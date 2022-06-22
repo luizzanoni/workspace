@@ -1,0 +1,5 @@
+.NET é gratuito e podemos acessar os repositorios da microsoft no github
+distribuição livre
+acesso ao código-fonte
+permissão para criação de trabalhos derivados
+integridades do autor do código
