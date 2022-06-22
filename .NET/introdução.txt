@@ -3,3 +3,6 @@ distribuição livre
 acesso ao código-fonte
 permissão para criação de trabalhos derivados
 integridades do autor do código
+
+Sempre deixar o código bem ambientado
+sempre em ingles, mas caso aconteça, pode colocar as class em pt-br
