@@ -1,0 +1,15 @@
+C:\workspace\C\Projeto1\bin\Debug\net6.0\Projeto1.exe
+C:\workspace\C\Projeto1\bin\Debug\net6.0\Projeto1.deps.json
+C:\workspace\C\Projeto1\bin\Debug\net6.0\Projeto1.runtimeconfig.json
+C:\workspace\C\Projeto1\bin\Debug\net6.0\Projeto1.dll
+C:\workspace\C\Projeto1\bin\Debug\net6.0\Projeto1.pdb
+C:\workspace\C\Projeto1\obj\Debug\net6.0\Projeto1.csproj.AssemblyReference.cache
+C:\workspace\C\Projeto1\obj\Debug\net6.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfoInputs.cache
+C:\workspace\C\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfo.cs
+C:\workspace\C\Projeto1\obj\Debug\net6.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\workspace\C\Projeto1\obj\Debug\net6.0\Projeto1.dll
+C:\workspace\C\Projeto1\obj\Debug\net6.0\refint\Projeto1.dll
+C:\workspace\C\Projeto1\obj\Debug\net6.0\Projeto1.pdb
+C:\workspace\C\Projeto1\obj\Debug\net6.0\Projeto1.genruntimeconfig.cache
+C:\workspace\C\Projeto1\obj\Debug\net6.0\ref\Projeto1.dll

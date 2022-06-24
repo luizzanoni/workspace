@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\.NET\\Projetos em .NET\\projeto1\\projeto1\\projeto1.csproj",
+      "projectUniqueName": "C:\\workspace\\DOTNET\\Projetos em .NET\\projeto1\\projeto1\\projeto1.csproj",
       "projectName": "projeto1",
-      "projectPath": "C:\\workspace\\.NET\\Projetos em .NET\\projeto1\\projeto1\\projeto1.csproj",
+      "projectPath": "C:\\workspace\\DOTNET\\Projetos em .NET\\projeto1\\projeto1\\projeto1.csproj",
       "packagesPath": "C:\\Users\\luizzanoni\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\.NET\\Projetos em .NET\\projeto1\\projeto1\\obj\\",
+      "outputPath": "C:\\workspace\\DOTNET\\Projetos em .NET\\projeto1\\projeto1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
