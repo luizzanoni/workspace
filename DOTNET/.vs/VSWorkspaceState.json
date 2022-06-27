@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Projetos em .NET",
-    "\\Projetos em .NET\\projeto1",
-    "\\Projetos em .NET\\projeto1\\projeto1",
-    "\\Projetos em .NET\\projeto1\\projeto1\\Pages",
-    "\\Projetos em .NET\\projeto1\\projeto1\\Pages\\Shared"
+    "\\Projeto3",
+    "\\Projeto3\\Colecoes"
   ],
-  "SelectedNode": "\\Projetos em .NET\\projeto1\\projeto1\\Pages\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\Projeto3\\Colecoes\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
