@@ -36,3 +36,5 @@ assim ele sonhece tudo o que tem na pasta
 
 omnisharp:select project
 serve para dar as opções e o "autocomplit"
+
+dando DEBUG
