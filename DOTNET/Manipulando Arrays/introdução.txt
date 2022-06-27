@@ -1,0 +1,5 @@
+Manipulaçãp dos array
+
+valores não ordenados 5, 7, 9, 2, 1, 4, 8, 14, 105, 16
+valores ordenados 2, 3, 5, 8, 14, 16, 105
+

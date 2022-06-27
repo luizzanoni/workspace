@@ -7,7 +7,10 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
-           int[,] matriz = new int[4,2] //array multifuncional com linhas e colunas
+
+            //array multifuncional com linhas e colunas
+
+           int[,] matriz = new int[4,2]
            {
                 { 8, 8 },
                 { 10, 20 },
@@ -23,6 +26,7 @@ namespace Colecoes
                 }
             }
 
+            // array simples com voce setando número 
             
             int[] arrayInteiros = new int[3];
 
