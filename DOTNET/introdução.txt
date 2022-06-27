@@ -1,3 +1,8 @@
+Extenções legais para usar
+C#
+C# Extensions
+vscode - icons
+
 .NET é gratuito e podemos acessar os repositorios da microsoft no github
 distribuição livre
 acesso ao código-fonte
@@ -6,3 +11,28 @@ integridades do autor do código
 
 Sempre deixar o código bem ambientado
 sempre em ingles, mas caso aconteça, pode colocar as class em pt-br
+
+um array não aceita nenhum tipo de int maior que (4)
+caso for colocar mais do que 4 elementos, ele dará erro
+n-1 acessa o array
+posição do array sempre começa em 0
+var.elemento = array[0]
+var[0] = 42
+
+estou dando ao array 0 um valor de 42
+
+valor multidimensional 
+int[,]array = new int [4,2];
+4 = numero de linhas
+2 = numero de colunas
+
+acessar um valor: array[1,1]
+
+ADC SLN no CMD:
+dotnet new sln --name Colecoes
+dotnet new console --name Colecoes
+dotnet sln add Colecoes/Colecoes.csproj
+assim ele sonhece tudo o que tem na pasta
+
+omnisharp:select project
+serve para dar as opções e o "autocomplit"
