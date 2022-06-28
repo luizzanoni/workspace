@@ -31,6 +31,7 @@ namespace Colecoes.Helper
         public void Ordenar(ref int[] array)
         {
             Array.Sort(array;)
+            array(test)
         }
     }
 }
