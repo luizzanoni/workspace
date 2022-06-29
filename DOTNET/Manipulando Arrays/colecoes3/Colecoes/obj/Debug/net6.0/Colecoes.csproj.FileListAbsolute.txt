@@ -3,3 +3,8 @@ C:\workspace\DOTNET\Manipulando Arrays\colecoes2\Colecoes\obj\Debug\net6.0\Colec
 C:\workspace\DOTNET\Manipulando Arrays\colecoes2\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
 C:\workspace\DOTNET\Manipulando Arrays\colecoes2\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
 C:\workspace\DOTNET\Manipulando Arrays\colecoes2\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\workspace\DOTNET\Manipulando Arrays\colecoes3\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\workspace\DOTNET\Manipulando Arrays\colecoes3\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DOTNET\Manipulando Arrays\colecoes3\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\workspace\DOTNET\Manipulando Arrays\colecoes3\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\workspace\DOTNET\Manipulando Arrays\colecoes3\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache

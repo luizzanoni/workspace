@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\DOTNET\\Manipulando Arrays\\colecoes2\\Colecoes\\Colecoes.csproj",
+      "projectUniqueName": "C:\\workspace\\DOTNET\\Manipulando Arrays\\colecoes3\\Colecoes\\Colecoes.csproj",
       "projectName": "Colecoes",
-      "projectPath": "C:\\workspace\\DOTNET\\Manipulando Arrays\\colecoes2\\Colecoes\\Colecoes.csproj",
+      "projectPath": "C:\\workspace\\DOTNET\\Manipulando Arrays\\colecoes3\\Colecoes\\Colecoes.csproj",
       "packagesPath": "C:\\Users\\luizzanoni\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\DOTNET\\Manipulando Arrays\\colecoes2\\Colecoes\\obj\\",
+      "outputPath": "C:\\workspace\\DOTNET\\Manipulando Arrays\\colecoes3\\Colecoes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
