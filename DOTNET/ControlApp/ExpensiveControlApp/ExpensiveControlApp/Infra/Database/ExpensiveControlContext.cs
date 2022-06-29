@@ -7,6 +7,6 @@ namespace ExpensiveControlApp.Infra.Database
     {
         public DbSet<Expensive> Expensives { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) => optionsBuilder.UseSqlite("Data Source=ExpensiveControl.db");
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) => optionsBuilder.Us eSqlite("Data Source=ExpensiveControl.db");
     }
 }

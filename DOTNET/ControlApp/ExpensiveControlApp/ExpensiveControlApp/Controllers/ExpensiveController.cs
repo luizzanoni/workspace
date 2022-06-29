@@ -1,4 +1,5 @@
-﻿using ExpensiveControlApp.Models;
+﻿using ExpensiveControlApp.DTOs;
+using ExpensiveControlApp.Models;
 using ExpensiveControlApp.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -16,9 +17,13 @@ namespace ExpensiveControlApp.Controllers
             _expensiveService = expensiveService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var listExpensiveDto = new ListExpensiveDTO();
+
+            listExpensiveDto.Items = await _expensiveService.FindBy(listExpensiveDto.StartDate, listExpensiveDto.EndDate);
+
+            return View(listExpensiveDto);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
