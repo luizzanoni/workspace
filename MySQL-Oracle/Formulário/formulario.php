@@ -23,14 +23,14 @@
 
         $nome = $_POST['nome'];
         $email = $_POST['email'];
-        $endereco = $_POST['telefone'];
+        $telefone = $_POST['telefone'];
         $sexo = $_POST['genero'];
         $data_nasc = $_POST['genero'];
         $cidade = $_POST['cidade'];
         $estado = $_POST['estado'];
         $endereco = $_POST['endereco'];
 
-        $result = mysqli_query($conexao, "INSERT INTO usuarios(nome,email,telefone,sexo,data_nasc,cidade,estado,endereco)
+        $result = mysqli_query($conexao, "INSERT INTO usuario(nome,email,telefone,sexo,data_nasc,cidade,estado,endereco)
         VALUES ('$nome','$email','$telefone','$sexo','$data_nasc','$cidade','$estado','$endereco')");
     }
 ?>
@@ -118,7 +118,7 @@
     </head>
     <body>
         <div class="box">
-            <form action="formulario.php">
+            <form action="formulario.php" method="POST" >
                 <fieldset>
                     <legend><b>Fórmulário de Clientes</b></legend>
                     <br>
