@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KpG5PSE3VBz0ZOMRU2NSwoEBz1qE+qYSbbCW3nJjhDw=",
+  "Hash": "IzgVpQ/z5NuMhGJ3TmLFEnOipd9fT4Ypu6MF8GP59Tw=",
   "Source": "formulario",
   "BasePath": "_content/formulario",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\github\\workspace\\DOTNET\\Formulário Unimed\\formulario\\formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\formulario.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\github\\workspace\\DOTNET\\Formulário Unimed\\formulario\\formulario\\wwwroot\\css\\logo.png",
+      "SourceId": "formulario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\github\\workspace\\DOTNET\\Formulário Unimed\\formulario\\formulario\\wwwroot\\",
+      "BasePath": "_content/formulario",
+      "RelativePath": "css/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\logo.png"
     },
     {
       "Identity": "C:\\github\\workspace\\DOTNET\\Formulário Unimed\\formulario\\formulario\\wwwroot\\css\\site.css",

@@ -15,7 +15,6 @@
 .header-items {
     display: flex;
     flex-wrap: wrap;
-    padding-top: 20px;
     margin-bottom: 20px;
     justify-content: center;
     align-items: center;
