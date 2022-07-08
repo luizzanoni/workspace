@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\workspace\\DOTNET\\Formulário Unimed\\formulario\\formulario\\formulario.csproj": {}
+    "C:\\github\\workspace\\DOTNET\\C#\\C#.csproj": {}
   },
   "projects": {
-    "C:\\github\\workspace\\DOTNET\\Formulário Unimed\\formulario\\formulario\\formulario.csproj": {
+    "C:\\github\\workspace\\DOTNET\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\workspace\\DOTNET\\Formulário Unimed\\formulario\\formulario\\formulario.csproj",
-        "projectName": "formulario",
-        "projectPath": "C:\\github\\workspace\\DOTNET\\Formulário Unimed\\formulario\\formulario\\formulario.csproj",
+        "projectUniqueName": "C:\\github\\workspace\\DOTNET\\C#\\C#.csproj",
+        "projectName": "C#",
+        "projectPath": "C:\\github\\workspace\\DOTNET\\C#\\C#.csproj",
         "packagesPath": "C:\\Users\\luizzanoni\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\workspace\\DOTNET\\Formulário Unimed\\formulario\\formulario\\obj\\",
+        "outputPath": "C:\\github\\workspace\\DOTNET\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,12 +42,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[11.1.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -59,9 +53,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
