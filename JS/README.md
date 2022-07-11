@@ -1,4 +1,4 @@
-##Curso de sintaxe básica em JavaScript
+# Curso de sintaxe básica em JavaScript
 
 📋Plano de aulas
 
