@@ -26,8 +26,16 @@ class Program
 {
     static void Main()
     {
-        string[] names = { "Fredi", "Mariana" };
+        string[] names = { "Fredi", "Mariana", "Isabela" };
 
-        Console.WriteLine("Teste");
+        // for (int i = 0; i < names.Length; i++)
+        // {
+        //     Console.WriteLine(names[i]);
+        // }
+
+        foreach (string name in names)
+        {
+            Console.WriteLine(name);
+        }
     }
 }
