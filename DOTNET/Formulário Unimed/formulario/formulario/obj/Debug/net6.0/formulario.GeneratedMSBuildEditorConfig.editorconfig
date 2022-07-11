@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = formulario
 build_property.RootNamespace = formulario
-build_property.ProjectDir = c:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\
+build_property.ProjectDir = C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario
+build_property.MSBuildProjectDirectory = C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Error.cshtml]
+[C:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Index.cshtml]
+[C:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Privacy.cshtml]
+[C:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/_ViewImports.cshtml]
+[C:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/_ViewStart.cshtml]
+[C:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Shared/_Layout.cshtml]
+[C:/github/workspace/DOTNET/Formulário Unimed/formulario/formulario/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d9rtk1jahw

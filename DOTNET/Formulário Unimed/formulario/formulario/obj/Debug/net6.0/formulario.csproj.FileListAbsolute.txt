@@ -24,3 +24,8 @@ C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\obj\Debug\ne
 C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\obj\Debug\net6.0\formulario.pdb
 C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\obj\Debug\net6.0\formulario.genruntimeconfig.cache
 C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\obj\Debug\net6.0\ref\formulario.dll
+C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\bin\Debug\net6.0\FluentValidation.dll
+C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\obj\Debug\net6.0\formulario.MvcApplicationPartsAssemblyInfo.cs
+C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\obj\Debug\net6.0\formulario.csproj.CopyComplete
