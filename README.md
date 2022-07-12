@@ -2,15 +2,17 @@
 
 Desafios de códigos e Projetos;
 
-Repositorio  para aprendizado sobre programação;
+Repositorio para aprendizado sobre programação;
 
-Tudo o que eu aprender, colocarei neste repositorio;
+Iniciado programação em portugol, escrito alguns códigos para apenas treinar. Foram desenvolvidos dois arquivos, primeiro como média de alunos, e o outro soma de intervalos. Todos foram aprendizados realizados no curso da plataforma DIO.
 
-Atualmente focando em C# devido ao trabalho.
+Logo após foi iniciado algumas aulas de Banco de Dados, tanto MySQL e o outro Oracle. Foi feitos um index em PHP para rodar via browser e feito um arquivo de conexão com o banco local, para realizar e salvar dados imputados no navegador, utilizado XAMPP para realizar a comnunicação do localhost.
+
+
 
 ## Links Úteis
 
-[Sintaxe básica de Markdown](https://www.markdownguide.org/getting-started/)
+[Sintaxe básica de Markdown (famosinho .MD)](https://www.markdownguide.org/getting-started/)
 
 [Meu LinkedIn](https://www.linkedin.com/in/luizgustavozanoni/)
 
