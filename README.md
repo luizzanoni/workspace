@@ -4,6 +4,8 @@ Desafios de códigos e Projetos;
 
 Repositorio para aprendizado sobre programação;
 
+Nenhum dos aplicativos ou códigos neste repositório, necessita de instalação, você consegue rodar eles no VSCODE ou no Visual Code 2022 para os arquivos em dotNET. porém a pasta C# consegue rodar no vscode normalmente.
+
 Iniciado programação em portugol, escrito alguns códigos para apenas treinar. Foram desenvolvidos dois arquivos, primeiro como média de alunos, e o outro soma de intervalos. Todos foram aprendizados realizados no curso da plataforma DIO.
 
 Logo após foi iniciado algumas aulas de Banco de Dados, tanto MySQL e o outro Oracle. Foi feitos um index em PHP para rodar via browser e feito um arquivo de conexão com o banco local, para realizar e salvar dados imputados no navegador, utilizado XAMPP para realizar a comnunicação do localhost.
