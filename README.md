@@ -8,7 +8,9 @@ Iniciado programação em portugol, escrito alguns códigos para apenas treinar.
 
 Logo após foi iniciado algumas aulas de Banco de Dados, tanto MySQL e o outro Oracle. Foi feitos um index em PHP para rodar via browser e feito um arquivo de conexão com o banco local, para realizar e salvar dados imputados no navegador, utilizado XAMPP para realizar a comnunicação do localhost.
 
-Além disso, realizado dois modelos de sites em HTML tendo em vista o inicio de frontEND, porém nenhum deles foi para o ar, devido a ser somente para aprendizado, sendo que focarei mais no backEND devido ao trabalho, onde serei Full Stack, porém necessito mais da programação de baixo nível.
+Além disso, realizado dois modelos de sites em HTML tendo em vista o inicio de frontEND, porém nenhum deles foi para o ar, devido a ser somente para aprendizado, sendo que focarei mais no backEND devido ao trabalho, onde serei Full Stack, em meu trabalho necessito mais da programação de baixo nível.
+
+Aprendido muito sobre JavaScript, onde tenho alguns arquivos salvos com informações importantes, principalmente .TXT, alguns com comandos, outros sobre explicações de como funciona vars e afins do prórpio JS. Realizei minha primeira calculadora em JS, rodando via browser, ela faz as 6 principais operações matemáticas. Você consegue ter acesso a mesma com facilidade.
 
 
 
