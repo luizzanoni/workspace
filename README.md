@@ -16,6 +16,7 @@ Aprendido muito sobre JavaScript, onde tenho alguns arquivos salvos com informa�
 
 
 
+
 ## Links Úteis
 
 [Sintaxe básica de Markdown (famosinho .MD)](https://www.markdownguide.org/getting-started/)
