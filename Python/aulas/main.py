@@ -1,13 +1,6 @@
-print("Olá, seja bem vindo! Calcule seu gasto anual.")
+print("Hello World!")
 
-salario_mensal = input("Digite seu salário mensal: ")
-salario_mensal = float(salario_mensal)
+name = input("Digite seu nome: ")
 
-gasto_mensal = input("Digite seu gasto mensal: ")
-gasto_mensal = float(gasto_mensal)
+print("Seu nome é:", name)
 
-salario_total = salario_mensal * 12
-gasto_total = gasto_mensal * 12
-
-montante_economizado = salario_total - gasto_total
-print("Seu saldo economizado foi um total de:", montante_economizado)
