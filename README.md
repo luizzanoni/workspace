@@ -30,7 +30,7 @@ Aprendido muito sobre JavaScript, onde tenho alguns arquivos salvos com informa�
 Iniciando as aulas em Python3 do curso do Let's Code, encontrei este curso no site de noticias do "tecmundo.com.br", pessoal tem canal no Youtube, então podemos acompanhar lá todos os cursos fornecidos por eles.
 
 
-## Links Úteis
+# Links Úteis
 
 [Sintaxe básica de Markdown (famosinho .MD)](https://www.markdownguide.org/getting-started/)
 
