@@ -1,4 +1,4 @@
-contador = 0
+contador = 10
 
 while True: 
     if contador < 10:
