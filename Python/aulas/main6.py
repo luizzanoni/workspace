@@ -1,15 +1,18 @@
-lista_capitais = []
-lista_capitais.append('Brasilia')
-lista_capitais.append('Buenos Aires')
-lista_capitais.append('Pequim')
-lista_capitais.append('Bogotá')
-print(lista_capitais)
+# Principal diferença de listas e tuplas, porém a tupla é a flexibilidade com o que a gente faz com cada dado
+# na lista, a gente mexe e altera
+# na tupla, a não altera nada apartir de escrita
 
-lista_capitais.insert(2, "Paris")
-print(lista_capitais)
+# Declarando TUPLA
 
-lista_capitais.remove("Buenos Aires")
-print(lista_capitais)
+nomes_paizes = ('Brasil', 'Argentina', 'China', 'Canadá', 'Japão')
+print(nomes_paizes, type(nomes_paizes))
 
-removido = lista_capitais.pop(2)
-print(lista_capitais, removido)
+len(nomes_paizes)
+
+nomes_paizes[0]
+
+b, a, c, ca, j = nomes_paizes
+
+print(b, c, j)
+
+print(*nomes_paizes)
