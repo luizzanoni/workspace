@@ -4,15 +4,15 @@
 
 # Declarando TUPLA
 
-nomes_paizes = ('Brasil', 'Argentina', 'China', 'Canadá', 'Japão')
-print(nomes_paizes, type(nomes_paizes))
+nomes_paises = ('Brasil', 'Argentina', 'China', 'Canadá', 'Japão')
+print(nomes_paises, type(nomes_paises))
 
-len(nomes_paizes)
+len(nomes_paises)
 
-nomes_paizes[0]
+nomes_paises[0]
 
-b, a, c, ca, j = nomes_paizes
+b, a, c, ca, j = nomes_paises
 
 print(b, c, j)
 
-print(*nomes_paizes)
+print(*nomes_paises)
