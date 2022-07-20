@@ -37,3 +37,4 @@ Iniciando as aulas em Python3 do curso do Let's Code, encontrei este curso no si
 [Meu LinkedIn](https://www.linkedin.com/in/luizgustavozanoni/)
 
 [Meu Instagram](https://www.instagram.com/luiz.gzanoni/)
+
