@@ -32,7 +32,7 @@ Iniciando as aulas em Python3 do curso do Let's Code, encontrei este curso no si
 
 # Links Úteis
 
-[Sintaxe básica de Markdown (famosinho .MD)](https://www.markdownguide.org/getting-started/)
+[Sintaxe básica de Markdown (.MD)](https://www.markdownguide.org/getting-started/)
 
 [Meu LinkedIn](https://www.linkedin.com/in/luizgustavozanoni/)
 
