@@ -19,4 +19,6 @@ IMPORTANTE. Os arquivos para serem convertidos, devem estar na mesma pasta que o
 
 Salve o arquivo e execute em seu PC.
 
+## Arquivo .EXE
+
 Caso não necessite alterar o código, contém o .EXE para rodar na máquina.
