@@ -6,7 +6,7 @@ import os
 import time
 start = time.time()
 print("Programa iniciado, aguarde o término em SEGUNDOS.")
-from PIL import Image # pip intall pillow
+from PIL import Image # pip install pillow
 
 for file in os.listdir():
     if file.split('.')[-1] in ('tif', 'tiff', 'DWTIFF', 'DWTiff'):
