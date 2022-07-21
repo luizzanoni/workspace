@@ -28,6 +28,7 @@ Aprendido muito sobre JavaScript, onde tenho alguns arquivos salvos com informa�
 ### Python3. ->
 
 Iniciando as aulas em Python3 do curso do Let's Code, encontrei este curso no site de noticias do "tecmundo.com.br", pessoal tem canal no Youtube, então podemos acompanhar lá todos os cursos fornecidos por eles.
+Também feito projeto para realizar a conversar de qualquer modelo de arquivo para PDF. (JED - Unimed)
 
 
 # Links Úteis
