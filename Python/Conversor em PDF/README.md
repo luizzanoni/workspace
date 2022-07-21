@@ -18,3 +18,5 @@ Anexe as extensões como outras já estão anexadas (ex. 'img', 'jpg')
 IMPORTANTE. Os arquivos para serem convertidos, devem estar na mesma pasta que o código e as duas pastas de extensões PIL e Pillow.
 
 Salve o arquivo e execute em seu PC.
+
+Caso não necessite alterar o código, contém o .EXE para rodar na máquina.
