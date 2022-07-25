@@ -24,7 +24,6 @@ Além disso, realizado dois modelos de sites em HTML tendo em vista o inicio de 
 
 Aprendido muito sobre JavaScript, onde tenho alguns arquivos salvos com informações importantes, principalmente .TXT, alguns com comandos, outros sobre explicações de como funciona vars e afins do prórpio JS. Realizei minha primeira calculadora em JS, rodando via browser, ela faz as 6 principais operações matemáticas. Você consegue ter acesso a mesma com facilidade.
 
-
 ### Python3. ->
 
 Iniciando as aulas em Python3 do curso do Let's Code, encontrei este curso no site de noticias do "tecmundo.com.br", pessoal tem canal no Youtube, então podemos acompanhar lá todos os cursos fornecidos por eles.
