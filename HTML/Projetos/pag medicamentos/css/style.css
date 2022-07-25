@@ -6,6 +6,42 @@
     align-items: center;
 }
 
+.search-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #b1d34b;
+    height: 40px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.search-btn{
+    color: white;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 240px;
+}
+
 header{
     margin: 0;
     padding: 0;
@@ -18,15 +54,9 @@ header{
 
 .flex-container{
     display: flex;
-    max-width: auto;
-    margin: 100px;
+    max-width: 992px;
+    margin: auto;
     width: 100%;
-    border-left: 250px;
-    border-right: 250px;
-}
-
-.flex-container tabela{
-    margin-top: 90px;
 }
 
 h1{
@@ -34,6 +64,11 @@ h1{
     text-decoration: none;
     color: white;
     text-decoration: none;
+}
+
+.tabela{
+    margin-top: 70px;
+    align-items: center;
 }
 
 .tabelas{
@@ -46,5 +81,8 @@ h1{
 
 table th, td{
     border: solid black 1px;
+    padding: 15px;
+    align-items: center;
+
 }
 
