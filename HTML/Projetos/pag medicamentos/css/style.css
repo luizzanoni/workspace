@@ -18,10 +18,15 @@ header{
 
 .flex-container{
     display: flex;
-    max-width: 992px;
-    margin: auto;
+    max-width: auto;
+    margin: 100px;
     width: 100%;
-    border-top: 15px;
+    border-left: 250px;
+    border-right: 250px;
+}
+
+.flex-container tabela{
+    margin-top: 90px;
 }
 
 h1{
