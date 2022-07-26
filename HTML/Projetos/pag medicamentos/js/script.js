@@ -3,7 +3,7 @@ function pesquisar(){
     input = document.getElementById("pesquisa");
     filtro = input.value.toUpperCase();
     menu = document.getElementsByTagName("li");
-    for(var i=0;i<menuItens.lemgth;i++){
+    for(var i=0;i<menuItens.length;i++){
         links = menuItens[i].getElementsByTagName("a")[0];
         if(links.innerHTML.toUpperCase().indesOf(filtro)>-1){
             menuItens[i].style.display="";
