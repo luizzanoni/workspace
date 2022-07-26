@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Medicamentos Padronizados</title>
         <link rel="stylesheet" href="css/style.css">
+        <script src="js/script.js"></script>
 
     </head>       
     <body>
@@ -24,7 +25,7 @@
 
         <div class="flex-container search-container">
             <div class="search-box">
-                <input class="search-txt" type="text" name="" placeholder="Pesquisar">
+                <input class="search-txt" type="text" name="" onkeyup="pesquisar()" placeholder="Pesquisar">
                 <a class="search-btn" href="#">
                     <img src="img/lupa.png" alt="Lupa" height="20" width="20">
                 </a>
@@ -35,8 +36,8 @@
             <table class="tabela">
                 <thead>
                     <tr>
-                        <td>ID</td>
-                        <td>Prescrição</td>
+                        <th>ID</th>
+                        <th>Prescrição</th>
                         <th>Item Padronizado</th>
                         <th>Sub-Classe</th>
                         <th>Classe</th>
