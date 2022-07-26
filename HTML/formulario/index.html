@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/style.css">
+        
+        <title>Formulário Unimed</title>
+    </head>
+    <body>
+        <header>
+            <div class="flex-container">
+                <div class="header-items">
+                    <div class="logo-unimed">
+                        <img src="img/logo.png" alt="logo-unimed">
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="altura-corpo">
+            <div class="flex-container">
+                <div class="entrada-informacoes">
+                    <div class="fundo-verde-form">
+                        <h1>Recuperação de Senha Portal de Laudos</h1>
+                        <h2>Informe seus dados para obter o login de acesso ao Sistema Unimed!</h2>
+                        <form id="form" class="form-unimed-verificacao-exames">
+                            <div class="label">
+                                <label for="nCpf">CPF:</label>
+                                <input type="text" maxlength="11" oninput="this.value = this.value.replace(/[^0-9]/g, '').replace(/(\..*?)\..*/g, '$1');"/>
+                            </div>
+                            <div class="label">
+                                <label for="dataNasc">Data de nascimento:</label>
+                                <input id="dataNasc" type="date">
+                            </div>
+                            <div class="label">
+                                <label for="nomeCompleto">Nome completo:</label>
+                                <input id="nomeCompleto" type="text">
+                            </div>
+                            <div class="label">
+                                <label for="nomeMaeCompleto">Nome completo da mãe:</label>
+                                <input type="text" id="nomeMaeCompleto">
+                            </div>
+                            <div class="button-send-formulario">
+                                <button id="btnSubmitForm"type="button">Enviar</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            
+        </footer>
+    </body>
+</html>
