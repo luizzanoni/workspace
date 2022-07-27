@@ -199,3 +199,13 @@
         </footer> -->
     </body>
 </html>
+
+<?php
+    $conexao = oci_connect('DBAMV', 'p3p3l3gal', '192.168.2.143/MVPROD');
+    echo"das";exit; 
+    if (!$conexao) {
+        $erro = oci_error();
+        trigger_error(htmlentities($erro['message'], ENT_QUOTES), E_USER_ERROR);
+    exit;
+    }
+?>

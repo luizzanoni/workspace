@@ -29,3 +29,34 @@ C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\bin\Debug\ne
 C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\obj\Debug\net6.0\formulario.MvcApplicationPartsAssemblyInfo.cs
 C:\github\workspace\DOTNET\Formulário Unimed\formulario\formulario\obj\Debug\net6.0\formulario.csproj.CopyComplete
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\appsettings.Development.json
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\appsettings.json
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\formulario.staticwebassets.runtime.json
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\formulario.exe
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\formulario.deps.json
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\formulario.runtimeconfig.json
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\formulario.dll
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\formulario.pdb
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\FluentValidation.dll
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.csproj.AssemblyReference.cache
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.AssemblyInfoInputs.cache
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.AssemblyInfo.cs
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.csproj.CoreCompileInputs.cache
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.MvcApplicationPartsAssemblyInfo.cs
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.MvcApplicationPartsAssemblyInfo.cache
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.RazorAssemblyInfo.cache
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.RazorAssemblyInfo.cs
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\staticwebassets.build.json
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\staticwebassets.development.json
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\scopedcss\bundle\formulario.styles.css
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\scopedcss\projectbundle\formulario.bundle.scp.css
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.csproj.CopyComplete
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.dll
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\refint\formulario.dll
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.pdb
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\formulario.genruntimeconfig.cache
+C:\github\workspace\DOTNET\Formulário\formulario\formulario\obj\Debug\net6.0\ref\formulario.dll
