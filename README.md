@@ -41,4 +41,3 @@ Inicio das aulas em react, aprendizado pelo youtube!
 
 [Meu Instagram](https://www.instagram.com/luiz.gzanoni/)
 
-
