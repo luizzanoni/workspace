@@ -1,0 +1,6 @@
+Bloco de anotação
+
+Link das video aulas: https://www.youtube.com/watch?v=OmmJBfcMJA8
+
+Curso pego o youtube iniciando JS, além dos cursos anteriores, vamos iniciar
+esta nova jornada para mais tarde, ver REACT e após NEXT
