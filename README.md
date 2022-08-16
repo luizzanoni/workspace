@@ -4,6 +4,8 @@ Desafios de códigos e Projetos;
 
 Repositorio para aprendizado sobre programação;
 
+Códigos e testes. Projetos e demais aplicativos realizados individualmente, será feito um repositório novo.
+
 !--> Nenhum dos aplicativos ou códigos neste repositório, necessita de instalação, você consegue rodar eles no VSCODE ou no Visual Code 2022 para os arquivos em dotNET. porém a pasta C# consegue rodar no vscode normalmente. <--!
 
 # Linguagens Aprendidas!
