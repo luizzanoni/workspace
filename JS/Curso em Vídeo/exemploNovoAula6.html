@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+        <script>
+            var nome = prompt('Qual é seu nome?')
+            document.write(`Olá ${nome}, seu nome tem ${nome.lenght} letras.`)
+
+            // para colocar dois dígitos após a vírgula
+            var n1 = 1545.5
+            n1.toFixed(2)
+            n1.toFixed(2).replace('.',',')
+            // // resultado 1545,50
+
+            // para realizar a conversão em reais e afins
+            n1.toLocaleString('pt-BR', {style: 'currency', currency:'BRL'})
+            // // resultado R$ 1.545,50
+
+            n1.toLocaleString('pt-BR', {style: 'currency', currency:'EUR'})
+            // // resultado  € 1.545,50
+        </script>
+    </body>
+</html>
