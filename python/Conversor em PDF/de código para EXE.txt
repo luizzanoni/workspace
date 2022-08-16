@@ -1,0 +1,12 @@
+abra o terminal e instale o pyinstaller
+
+python3 -m pip install 
+	pyinstaller --upgrade
+
+depois de instalado, vá na pasta e coloque todos os arquivos que ele precisa para executar
+após arquivos revisados execute o comando:
+
+pyinstaller --onefile {nome do arquivo que vamos transformar em .py}
+
+aguarde findar o tempo e .EXE criado
+
