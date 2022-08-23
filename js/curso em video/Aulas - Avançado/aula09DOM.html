@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros passos com DOM</title>
+    <style>
+        body{
+            background-color: blue;
+            color: white;
+            font: normal 15px arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Primeiros passos em DOM</h1>
+    <p>aqui vai o resultado</p>
+    <p>DOM <br>
+        Documento Object Model
+    </p>
+    <p>Precisamos aprender fazer nossa árvore DOM</p>
+    <img src="img/arvoreDom.png" alt="arvoreDom">
+    <p>nosso código é a representação do nosso código</p>
+    <div id="msg">clique aqui</div>
+    <script>
+        var corpo = window.document.body
+        var d = window.document.getElementsByName('msg')[0]
+        d.innerText = 'Olá' 
+
+        // var d = window.document.querySelector('div#msg')
+        
+        // https://www.youtube.com/watch?v=WWZX8RWLxIk
+    </script>
+</body>
+</html>

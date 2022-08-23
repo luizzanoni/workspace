@@ -1,0 +1,101 @@
+<!-- 
+    operadores que existem no js
+        aritmeticos (+, -, *, /, %, **)
+        atribuicao
+        relacionais
+        logicos
+        ternario 
+-->
+
+<!-- 
+    Ordem de Precedência
+        ()
+        **
+        * / % (ele vem da esquerda para direita) 
+        + - 
+-->
+
+<!--
+    Auto-atribuições
+    var n = 3
+    n = n + 4 (simplificando essa conta caso ele recebe ele de novo fica n += 4)
+    n += 4 (mesma coisa)
+    n = 7
+
+    e assim sucessivamente.
+-->
+
+<!--
+    Incremento 
+        caso ainda eu possa simplificar ainda mais 
+        var n = 3
+        n = n + 4 (simplificando essa conta caso ele recebe ele de novo fica n += 4)
+        n += 4 (mesma coisa)
+        n ++
+        n = 7
+-->
+
+<!--
+    Operadores Relacionais (Valores Boolean true or false)
+        > maior
+        < menor
+        >= maior igual
+        <= menor igual
+        == igual
+        === identico (além de ser igual, deve ser do mesmo tipo (string, number))
+        != diferente
+-->
+
+<!--
+    Operadores Lógicos
+        ! negação -> true or false
+        && conjunção (E LÓGICO) 
+            ->dois valores lógico de cada lado
+                true && true == true (somente true me satisfaz)
+                true && false == false
+                false && true == false
+                false && false == false
+        || disjunção (OU LÓGICO)
+            -> dois valores lógicos também
+                true && true == true
+                true && false == true
+                false && true == true
+                false && false == false
+
+    exemplo utilizado no node.js 
+        idade >= 15 && idade <= 17             // a idade está entre 15 e 17?
+        estado == 'RJ' || estado =='SP'       // o estado é de RJ ou SP?
+        salário > 1500 && sexo != 'M'        // o salário é acima de 1500 e não é um homem?
+-->
+
+<!--
+    Operador ternário
+        ?
+        :
+
+        teste ? true : false (o que acontece quando for true or false)
+
+        média >= 7.0 ? "aprovado" : "reprovado"
+
+-->
+
+<!--
+    ORDEM DE TODAS AS PRECEDENCIAS
+        () ** / ...
+        > < >= ...
+        !
+        &&
+        ||
+-->
+
+<!--
+Exemplo interessante
+    var idade = 18
+    var r = idade >= 18 ? "maior" : "menor"
+    (neste caso ele é maior)
+
+    caso:
+    var idade = 14
+    var r = idade >= 18 ? "maior" : "menor"
+    (neste caso ele é menor)
+-->
