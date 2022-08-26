@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Verifique seu país</title>
+    </head>
+    <body>
+        <h1>Qual sua nacionalidade?</h1>
+        Onde você está morando atualmente? <input type="text" name="resi" id="resi">
+        <input type="button" value="verificar" onclick="calcular()">
+        <div id="res">
+
+        </div>
+
+        <script>
+            function calcular() {
+                var casa = document.getElementById('resi')
+                var res = document.getElementById('res')
+                res.innerText = `Atualmente você vive em ${casa}`
+                if (casa == Brasil) {
+                    res.innerHTML = `Vocé é brasileiro`
+                } else {
+                    res.innerHTML = `Você é estrangeiro`
+                }
+            }
+        </script>
+    </body>
+</html>
