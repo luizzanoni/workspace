@@ -8,7 +8,7 @@
     </head>
     <body>
         <h1>Qual sua nacionalidade?</h1>
-        Onde você está morando atualmente? <input type="text" name="resi" id="resi">
+        Onde você está morando atualmente? <input type="text" name="paisnativo" id="paisnativo">
         <input type="button" value="verificar" onclick="calcular()">
         <div id="res">
 
@@ -16,13 +16,13 @@
 
         <script>
             function calcular() {
-                var casa = document.getElementById('resi')
+                var casa = document.getElementById('paisnativo').value
                 var res = document.getElementById('res')
                 res.innerText = `Atualmente você vive em ${casa}`
-                if (casa == Brasil) {
-                    res.innerHTML = `Vocé é brasileiro`
+                if (casa == 'Brasil') {
+                    res.innerText += `<p>Você é brasileiro`
                 } else {
-                    res.innerHTML = `Você é estrangeiro`
+                    res.innerText += `<p>Você é estrangeiro`
                 }
             }
         </script>
