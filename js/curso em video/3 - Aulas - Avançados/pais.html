@@ -18,11 +18,11 @@
             function calcular() {
                 var casa = document.getElementById('paisnativo').value
                 var res = document.getElementById('res')
-                res.innerText = `Atualmente você vive em ${casa}`
+                res.innerHTML = `Atualmente você vive em ${casa}`
                 if (casa == 'Brasil') {
-                    res.innerText += `<p>Você é brasileiro`
+                    res.innerHTML += `<p>Você é brasileiro`
                 } else {
-                    res.innerText += `<p>Você é estrangeiro`
+                    res.innerHTML += `<p>Você é estrangeiro`
                 }
             }
         </script>
