@@ -1,4 +1,4 @@
-# Workspace
+## Workspace
 
 Desafios de códigos e Projetos;
 
@@ -6,32 +6,35 @@ Repositorio para aprendizado sobre programação;
 
 Códigos e testes. Projetos e demais aplicativos realizados individualmente, será feito um repositório novo.
 
-!--> Nenhum dos aplicativos ou códigos neste repositório, necessita de instalação, você consegue rodar eles no VSCODE ou no Visual Code 2022 para os arquivos em dotNET. porém a pasta C# consegue rodar no vscode normalmente. <--!
+<-- Nenhum dos aplicativos ou códigos neste repositório, necessita de instalação, você consegue rodar eles no VSCODE ou no Visual Code 2022 para os arquivos em dotNET. Porém a pasta C# consegue rodar no vscode normalmente -->
 
-# Linguagens Aprendidas!
+## Linguagens Aprendidas!
 
-### Portugol -> 
+#### Portugol -> 
 
 Iniciado programação em portugol, escrito alguns códigos para apenas treinar. Foram desenvolvidos dois arquivos, primeiro como média de alunos, e o outro soma de intervalos. Todos foram aprendizados realizados no curso da plataforma DIO.
 
-### MySQL - ORACLE -> 
+#### mySQL - oracle -> 
 
 Logo após foi iniciado algumas aulas de Banco de Dados, tanto MySQL e o outro Oracle. Foi feitos um index em PHP para rodar via browser e feito um arquivo de conexão com o banco local, para realizar e salvar dados imputados no navegador, utilizado XAMPP para realizar a comnunicação do localhost.
 
-### HTML -> 
+#### HTML -> 
 
 Além disso, realizado dois modelos de sites em HTML tendo em vista o inicio de frontEND, porém nenhum deles foi para o ar, devido a ser somente para aprendizado, sendo que focarei mais no backEND devido ao trabalho, onde serei Full Stack, em meu trabalho necessito mais da programação de baixo nível.
 
-### JS ->
+#### JS ->
 
-Aprendido muito sobre JavaScript, onde tenho alguns arquivos salvos com informações importantes, principalmente .TXT, alguns com comandos, outros sobre explicações de como funciona vars e afins do prórpio JS. Realizei minha primeira calculadora em JS, rodando via browser, ela faz as 6 principais operações matemáticas. Você consegue ter acesso a mesma com facilidade.
+Aprendido muito sobre JavaScript, onde tenho alguns arquivos salvos com informações importantes, principalmente .TXT, alguns com comandos, outros sobre explicações de como funciona vars e afins do prórpio JS. Realizei minha primeira calculadora em JS, rodando via browser, ela faz as 6 principais operações matemáticas. Você consegue ter acesso a mesma com facilidade.<br>
 
-### Python3 ->
+<-- [Curso em vídeo](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) --><br>
+
+Curso completo em JS com todos os arquivos produzidos durante as aulas, inclusive todos os operadores e explicações sobre
+#### Python3 ->
 
 Iniciando as aulas em Python3 do curso do Let's Code, encontrei este curso no site de noticias do "tecmundo.com.br", pessoal tem canal no Youtube, então podemos acompanhar lá todos os cursos fornecidos por eles.
 Também feito projeto para realizar a conversar de qualquer modelo de arquivo para PDF. (JED - Unimed)
 
-### React ->
+#### React ->
 
 Inicio das aulas em react, aprendizado pelo youtube!
 
