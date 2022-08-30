@@ -87,4 +87,3 @@ switch(diaSemana){
     default:
         console.log('[ERRO] dia não corresponde')
 }
-
